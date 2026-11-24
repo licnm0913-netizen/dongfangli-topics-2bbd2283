@@ -1,0 +1,104 @@
+{
+ "updated_label": "2026-11-24（周二）东京 12:50",
+ "weights": {
+  "pain": 20,
+  "gap": 15,
+  "demand": 15,
+  "resonance": 10,
+  "shoot": 20,
+  "authority": 10,
+  "timing": 10
+ },
+ "weight_labels": {
+  "pain": "痛点强度",
+  "gap": "好奇缺口",
+  "demand": "需求证据",
+  "resonance": "东西方共鸣",
+  "shoot": "东京可拍",
+  "authority": "大拙权威",
+  "timing": "时机"
+ },
+ "mix_rules": {
+  "cn_min": 60,
+  "jp_max": 20,
+  "it_max": 20,
+  "note": "按每条片计划内容占比（cn/jp/it_share_plan）加权计算。中×日对照题默认中国 60%、日本 40%，可在 CSV 里改。"
+ },
+ "pillars": {
+  "P1 Food Origins": "食物身世与误会",
+  "P2 Characters": "汉字与语言",
+  "P3 Same-but-Different": "中日似是而非",
+  "P4 Social Codes": "社交潜规则",
+  "P5 Everyday Habits": "日常习惯解码",
+  "P6 Calendar & Myths": "节日·生肖·神话",
+  "P7 Tokyo Field": "东京里的东方"
+ },
+ "week": {
+  "label": "第 0 周 · 11/23–11/29（搭建周）",
+  "headline": "选题系统已搭好，等大拙从首批 5 个里选第 1 条。",
+  "days": [
+   {
+    "day": "周一",
+    "task": "数据复盘 + 评论挖掘",
+    "who": "助手",
+    "status": "skip",
+    "note": "频道还没发片，无数据"
+   },
+   {
+    "day": "周二",
+    "task": "外部扫描 + 打分 + 3 张选题卡",
+    "who": "助手",
+    "status": "done",
+    "note": "30 个选题、前 10 张卡已完成（11/24）"
+   },
+   {
+    "day": "周三",
+    "task": "大拙选题 + 中文口述观点",
+    "who": "大拙",
+    "status": "todo",
+    "note": "建议先做 T01 日本中华料理"
+   },
+   {
+    "day": "周三–周四",
+    "task": "东京拍摄",
+    "who": "大拙",
+    "status": "todo",
+    "note": ""
+   },
+   {
+    "day": "周四",
+    "task": "中英脚本 + 事实核查（清掉 ⚠️）",
+    "who": "助手",
+    "status": "todo",
+    "note": ""
+   },
+   {
+    "day": "周五",
+    "task": "AI 英文配音（披露）+ 剪辑 + 3 封面 3 标题",
+    "who": "助手",
+    "status": "todo",
+    "note": ""
+   },
+   {
+    "day": "周六",
+    "task": "审片批准",
+    "who": "大拙",
+    "status": "todo",
+    "note": "没批准不发"
+   },
+   {
+    "day": "周日",
+    "task": "发布长片 + 2–4 条 Shorts",
+    "who": "助手准备 · 大拙批准",
+    "status": "todo",
+    "note": ""
+   }
+  ]
+ },
+ "evidence_insights": [
+  "食物和对比题最能出圈：筷子对比 1,011 万、酱油 974 万、煎饺 629 万（YouTube 公开页，11/24 抓取）。",
+  "礼仪说教片没人看：搜 mianzi/face 最高 4 万；同样的问题在 Reddit 很热，所以要包进吃饭场景讲。",
+  "汉字是长青题：TED-Ed 206 万、東宮たくみ 1,535 万。",
+  "节日和生肖 1–2 月有高峰：TED-Ed 生肖 970 万。"
+ ]
+}
